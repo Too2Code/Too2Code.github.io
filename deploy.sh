@@ -12,6 +12,6 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:Too2Code/contract-deployer.git main:gh-pages
+git push -f git@github.com:Too2Code/Too2Code.github.io.git main:gh-pages
 
 cd -
