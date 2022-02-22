@@ -4,7 +4,7 @@
 set -e
 
 # build
-npm run build
+yarn run build
 
 # navigate into the build output directory
 cd dist
@@ -12,6 +12,6 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:Too2Code/crab-contract.git main:gh-pages
+git push -f git@github.com:Too2Code/contract-deployer.git main:gh-pages
 
 cd -
