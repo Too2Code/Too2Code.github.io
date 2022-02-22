@@ -1547,7 +1547,7 @@
     "@polkadot/util-crypto" "^8.2.2"
     rxjs "^7.5.1"
 
-"@polkadot/api@7.2.1", "@polkadot/api@^7.2.1":
+"@polkadot/api@7.2.1":
   version "7.2.1"
   resolved "https://registry.yarnpkg.com/@polkadot/api/-/api-7.2.1.tgz#7ef5ea55521f0a701d02b6eefbeb24ceeef58e76"
   integrity sha512-Efxc6j6TGKYJpfVIIo8UpjAE/rNfPi+pbYXs9ByPRO9o+Tl5zcatRtdxCtFW3I+mvOObfpsedeXajZXcSFp9dw==
@@ -1570,7 +1570,7 @@
     eventemitter3 "^4.0.7"
     rxjs "^7.5.1"
 
-"@polkadot/extension-dapp@^0.42.4":
+"@polkadot/extension-dapp@0.42.4":
   version "0.42.4"
   resolved "https://registry.yarnpkg.com/@polkadot/extension-dapp/-/extension-dapp-0.42.4.tgz#357c61cceba480b56f64a50287e4dcc7e08002bf"
   integrity sha512-/xzUGJOqennrE8yY2gPtcTSN1EWMFa1g8NdapG8+MoOtTtqw9VaF/wXnRndiAAA/V3rb1SG0ZaTAzdPMAONKOw==
@@ -1716,7 +1716,7 @@
     "@babel/runtime" "^7.16.7"
     "@polkadot/util" "^8.2.2"
 
-"@polkadot/types@7.2.1", "@polkadot/types@^7.1.1", "@polkadot/types@^7.2.1":
+"@polkadot/types@7.2.1", "@polkadot/types@^7.1.1":
   version "7.2.1"
   resolved "https://registry.yarnpkg.com/@polkadot/types/-/types-7.2.1.tgz#b8b1d8a8c38fad979df00ff20e3724d52328edfb"
   integrity sha512-9LDi13JjULcCMMRM8lHcQm/qlEoh+nebqBd1k3f1jbbLnhV0ddTFp1s/ldkbpeL4eXIIV2E3+uENfuTcDdEruQ==
@@ -1730,7 +1730,7 @@
     "@polkadot/util-crypto" "^8.2.2"
     rxjs "^7.5.1"
 
-"@polkadot/ui-keyring@^0.88.1":
+"@polkadot/ui-keyring@0.88.1":
   version "0.88.1"
   resolved "https://registry.yarnpkg.com/@polkadot/ui-keyring/-/ui-keyring-0.88.1.tgz#c89ef680d1817f052dbc6a8c97edf5673362e8f2"
   integrity sha512-oprJsHa0A5ooAHP0FjWBw6Wko+QeEU58TVSAAHgqkwatN9d47OZO83dOXi9bkX7q2JNAWUGHqd9h9OvQe4esig==
@@ -1795,7 +1795,7 @@
     bn.js "^4.12.0"
     ip-regex "^4.3.0"
 
-"@polkadot/vue-identicon@^0.88.1":
+"@polkadot/vue-identicon@0.88.1":
   version "0.88.1"
   resolved "https://registry.yarnpkg.com/@polkadot/vue-identicon/-/vue-identicon-0.88.1.tgz#805021705e52d9d3351b9038496677822aed4248"
   integrity sha512-/ULtLGu/fqF3/qy9jc1u2+zL8EwWnnzfVgxDIc4qtpSyefgQRLaDHhuY1njhwzoXZqCbhWMzo22eNkV1oCnbCg==
