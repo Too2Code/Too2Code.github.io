@@ -4,9 +4,7 @@ function resolve(dir) {
   return path.join(__dirname, dir);
 }
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/contract-deployer/'
-    : '/',
+  publicPath: '/',
   assetsDir: "static",
   runtimeCompiler: true,
   chainWebpack: config => {
